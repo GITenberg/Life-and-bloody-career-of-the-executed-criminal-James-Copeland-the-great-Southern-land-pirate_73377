@@ -1,0 +1,36 @@
+_repo: Life-and-bloody-career-of-the-executed-criminal-James-Copeland-the-great-Southern-land-pirate_73377
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pitts, J. R. S. (James Robert Soda)
+    alias: Pitts, James Robert Soda
+    birthdate: 1832
+    deathdate: 1920
+    gutenberg_agent_id: '57048'
+    url: http://www.gutenberg.org/2009/agents/57048
+description: ''
+gutenberg_issued: '2024-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73377'
+  lccn: '07021513'
+language: en
+pgterms:marc904: https://archive.org/details/lifebloodycareer00pitt/page/n9/mode/2up
+pgterms:marc905: 20200820173002pitts
+pgterms:marc906: '1874'
+pgterms:marc907: US
+production_note: Charlene Taylor, Chris Miceli and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aJackson :$bPilot Publishing Company, $c1874.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Copeland, James, 1823-1857'
+- !lcsh 'Criminals -- Gulf States -- Biography'
+- !lcc 'F296'
+- GITenberg
+title: Life and bloody career of the executed criminal, James Copeland, the great
+  Southern land pirate
+url: http://www.gutenberg.org/ebooks/73377
